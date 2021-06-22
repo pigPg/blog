@@ -6,5 +6,8 @@ public class Testtest {
         ArrayList<Object> list = new ArrayList<>();
 
     }
-    
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
